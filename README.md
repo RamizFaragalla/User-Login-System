@@ -1,6 +1,6 @@
 # User-Login-System
 
-This program validates computer user-ids and passwords uses trees. A list of valid ids and passwords (unsorted) is read from a file and stored in a Binary Search Tree (BST) of UserInfo objects. When  user-ids and passwords are entered during execution, this BST is searched to determine whether they are legal.
+This program validates computer user-ids and passwords using trees. A list of valid ids and passwords (unsorted) is read from a file and stored in a Binary Search Tree (BST) of UserInfo objects. When  user-ids and passwords are entered during execution, this BST is searched to determine whether they are legal.
 
    Input (file):     UserInfo records for valid users
 
